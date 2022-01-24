@@ -45,3 +45,10 @@ a:before{
     transform: scale(1.1);
    
 }
+
+h1{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 40px;
+    color: #f25970;
+    text-shadow: 4px 4px 0 #000;
+}
